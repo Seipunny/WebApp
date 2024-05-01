@@ -1,6 +1,8 @@
 {
-    "name": "C# TonConnect",
-    "short_name": "C# TonConnect",
+  "url": "https://seipunny.github.io/WebApp/",                        // required
+  "iconUrl": "TemplateData/icons/unity-logo-dark.png",               // required
+    "name": "Catellite",
+    "short_name": "Catellite",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
