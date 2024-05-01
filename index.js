@@ -43,7 +43,7 @@ window.addEventListener("load", function () {
     codeUrl: buildUrl + "/WebGL Build.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
-    productName: "Catellite",
+    productName: "C# TonConnect",
     productVersion: "1.0",
     showBanner: unityShowBanner,
   };
